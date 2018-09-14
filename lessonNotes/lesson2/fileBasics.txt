@@ -1,0 +1,8 @@
+Python Files
+
+Objecives:
+1. Navigate a file system
+2. Navigate to a file
+3. open a file
+4. read a files content
+5. Wrie to a file

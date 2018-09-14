@@ -1,0 +1,18 @@
+Python Interpreter
+
+Objectives:
+1. Start the Shell
+2. Understand basic sentax
+3. print outputs
+4. create a script
+5. run script from the commandline
+
+Questions:
+1. What is an interpreted language vs a compiled language
+2. What is the command to start the python shell and how is it envoked?
+3. What are variables?
+4. How do you assign them?
+5. How do you compare them?
+6. What is the sentax to print them?
+7. What are the file endings for python files?
+8. How do you run a python file?

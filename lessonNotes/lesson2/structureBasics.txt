@@ -1,0 +1,5 @@
+Python Data Structures
+
+Objectives
+1. access a file using csv
+2. access data in a file using json structure

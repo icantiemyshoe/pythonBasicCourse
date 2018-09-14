@@ -1,0 +1,15 @@
+Python Objects
+
+Objectives:
+1. Create a string
+2. Create a list
+3. Create a dict
+4. Know what a tuple is
+5. Access data in those objects
+
+Question:
+1. What are the different data types a variable can represent?
+2. How do you make an array?
+3. How do you access a specific pointer in the array?
+4. What are the different kinds of arrays?
+5. How would you format a string?
